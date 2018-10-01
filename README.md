@@ -1,4 +1,4 @@
-# awesome-default-passwords
+# default-passwords
 
 An awesome collection of default passwords for various devices and services.
 Useful for system administrators and for demonstrating that default passwords
