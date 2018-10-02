@@ -6,9 +6,9 @@ are not awesome and terrible for the security ecosystem.
 
 ### The List
 
-routerpasswords_portforward.csv (passwords from portforward.com)
-routerpasswords_com.html (passwords from routerpasswords.com)
-default-passwords_other.csv (list with other credentials - might overlap)
+  * routerpasswords_portforward.csv (passwords from portforward.com)
+  * routerpasswords_com.html (passwords from routerpasswords.com)
+  * default-passwords_other.csv (list with other credentials - might overlap)
 
 ### Other
 
