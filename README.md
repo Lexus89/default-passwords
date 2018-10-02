@@ -12,7 +12,7 @@ are not awesome and terrible for the security ecosystem.
 
 ### Other
 
-dump_portforward.py (script to dump all passwords from portforward.com,updates existing pass file)
+dump_portforward.py (script to dump all passwords from portforward.com, updates existing password csv file)
 
 Table of contents:
   * [Passwords by ISP](#passwords-by-isp)
