@@ -1,14 +1,18 @@
-# awesome-default-passwords
+# default-passwords
 
 An awesome collection of default passwords for various devices and services.
 Useful for system administrators and for demonstrating that default passwords
 are not awesome and terrible for the security ecosystem.
 
 ### The List
-If you just want a list of passwords, this repository **maintains a CSV list**
-[here](passwords.csv).  If you're trying to quickly look up the password(s)
-associated with a specific device or service, this is probably where you want
-to start.  If what you're looking for isn't in the list, subit an issue.
+
+routerpasswords_portforward.csv (passwords from portforward.com)
+routerpasswords_com.html (passwords from routerpasswords.com)
+default-passwords_other.csv (list with other credentials - might overlap)
+
+### Other
+
+dump_portforward.py (script to dump all passwords from portforward.com,updates existing pass file)
 
 Table of contents:
   * [Passwords by ISP](#passwords-by-isp)

@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 from operator import itemgetter
 
 BASE_URL = "https://portforward.com/router-password/"
-PASSWORD_CSV = "passwords.csv"
+PASSWORD_CSV = "routerpasswords_portforward.csv"
 
 def dump_maker_page(url):
     r = requests.get(BASE_URL + url)
