@@ -8,9 +8,12 @@ are not awesome and terrible for the security ecosystem.
 
   * routerpasswords_portforward.csv (passwords from portforward.com)
   * routerpasswords_com.html (passwords from routerpasswords.com)
+  * passwords_cirt.txt (passwords from cirt.net)
   * default-passwords_other.csv (list with other credentials - might overlap)
+  
+   * \other\<...> (other default passwords)
 
-### Other
+### Scripts
 
 dump_portforward.py (script to dump all passwords from portforward.com, updates existing password csv file)
 
